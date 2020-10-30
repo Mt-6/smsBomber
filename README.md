@@ -33,7 +33,7 @@
 * git clone https://github.com/Mt-6/smsBomber
 * cd smsBomber
 * python3 baji.py
-* inter phone number / stop attack + Ctrl+c
+* inter phone number / stop attack = Ctrl+c
 
 ## My Telegram
 [![GNU GPLv3 Image](https://telegram.org/img/t_logo.png)](http://t.me/mrbaji)
